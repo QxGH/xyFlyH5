@@ -1,3 +1,8 @@
+/*
+ * @Description: 
+ * @Date: 2021-02-23 16:10:13
+ * @LastEditTime: 2021-02-23 17:56:12
+ */
 const webpack = require('webpack');
 
 module.exports = {
@@ -8,7 +13,11 @@ module.exports = {
                     RUNNING_MODE: JSON.stringify(process.env.RUNNING_MODE || '')
                 }
             })
-        ]
+        ],
+        externals: {
+            'html2canvas': 'html2canvas',
+            'domtoimage': 'domtoimage'
+        }
     },
     chainWebpack: (config) => {
         // 正式环境发布时屏蔽console 代码(包含所有 console 方法，如 log,debug,info...)
