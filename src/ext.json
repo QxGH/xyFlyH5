@@ -1,0 +1,31 @@
+{
+  "extEnable": true,
+  "extAppid": "wx1df3a8b37cdd03bb",
+  "directCommit": false,
+  "ext": {
+    "version": "0.0.0",
+    "btoken": "b678a140b1bf905de690575fc20c796e",
+    "mtoken": "d33ceba19e0ec26aa1b9b11f321c1013",
+    "industry": {
+      "industryId": 1
+    },
+    "pluginStatus": {
+      "livePlayer": true
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置将用于为你找到最近的服务门店"
+    }
+  },
+  "plugins": {
+    "work-wechat-contact-plugin": {
+      "version": "1.3.1",
+      "provider": "wx104a1a20c3f81ec2"
+    },
+    "live-player-plugin": {
+      "version": "1.2.2",
+      "provider": "wx2b03c6e691cd7370"
+    }
+  }
+}

@@ -1,0 +1,162 @@
+@font-face {
+  /* XJH项目 */
+  font-family: "iconfont";
+  src: url("~@/static/iconFont/iconfont2.ttf");
+}
+
+@font-face {
+  /* mp项目 */
+  font-family: "iconfont";
+  src: url("~@/static/iconFont/iconfont.ttf");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tishi1:before {
+  content: "\e6c1";
+}
+
+.icon-integrall-mall-2:before {
+  content: "\e690";
+}
+
+.icon-star-fill:before {
+  content: "\e69c";
+}
+
+.icon-zhuyi:before {
+  content: "\e68d";
+}
+
+.icon-gonghuoshichang:before {
+  content: "\e674";
+}
+
+.icon-toTop:before {
+  content: "\e67f";
+}
+
+.icon-kefu:before {
+  content: "\e68a";
+}
+
+.icon-float-window:before {
+  content: "\e68b";
+}
+
+.icon-shouye1:before {
+  content: "\e68f";
+}
+
+.icon-jifenshangcheng:before {
+  content: "\e645";
+}
+
+.icon-gouwuche1:before {
+  content: "\e65a";
+}
+
+.icon-jilu:before {
+  content: "\e665";
+}
+
+.icon-jifenshangcheng1:before {
+  content: "\e66f";
+}
+
+.icon-jifen:before {
+  content: "\e6ae";
+}
+
+.icon-fenxiang2:before {
+  content: "\e6d5";
+}
+
+.icon-dianhua:before {
+  content: "\e62c";
+}
+
+.icon-wuliu:before {
+  content: "\e60a";
+}
+
+.icon-guanbi:before {
+  content: "\e62b";
+}
+
+.icon-weixin:before {
+  content: "\e631";
+}
+
+.icon-shangjiantou:before {
+  content: "\e64a";
+}
+
+.icon-dingwei:before {
+  content: "\e63c";
+}
+
+.icon-sousuo:before {
+  content: "\e650";
+}
+
+.icon-shangdian:before {
+  content: "\e633";
+}
+
+.icon-gou_ico:before {
+  content: "\e671";
+}
+
+.icon-youjiantou:before {
+  content: "\e612";
+}
+
+.icon-guanbi1:before {
+  content: "\e7be";
+}
+
+.icon-xiajiantou:before {
+  content: "\e733";
+}
+
+.icon-zuojiantou:before {
+  content: "\e735";
+}
+
+.icon-user:before {
+  content: "\e60b";
+}
+
+.icon-xiangji:before {
+  content: "\e67e";
+}
+
+.icon-jiahao:before {
+  content: "\e61c";
+}
+
+.icon-shouye:before {
+  content: "\e621";
+}
+
+.icon-fenxiang:before {
+  content: "\e75d";
+}
+
+.icon-xiazai:before {
+  content: "\e60e";
+}
+
+.icon-guanbi2:before {
+  content: "\e60c";
+}
+
+.icon-xiaoxi1:before {
+  content: "\e695";
+}
